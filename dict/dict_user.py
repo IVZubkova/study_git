@@ -158,7 +158,7 @@ testdata = [
      {'case': 1482, 'phone': 9000001482, 'description': 'Проверка невозможности перейти в "Платежи" при closed'},
      {'case': 1483, 'phone': 9000001111, 'description': 'Проверка возможности перейти в "Платежи" при act_pending', 'tariff': 'act_pending'},
      {'case': 1484, 'phone': 9000001484, 'description': 'Проверка возможности перейти в "Платежи" при active', 'tariff': 'active'},
-     {'case': 1485, 'phone': 9000001485, 'description': 'Проверка возможности перейти в "Платежи" при not_fully_paid', 'tariff': 'not_fully_paid'},
+     {'case': 1485, 'phone': 9000001481, 'description': 'Проверка возможности перейти в "Платежи" при not_fully_paid', 'tariff': 'not_fully_paid'},
 
      # case 1500 - 9999 - не занято
      ]]
